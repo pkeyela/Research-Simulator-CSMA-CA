@@ -1,4 +1,4 @@
-# Research-Simulator-CSMA-CA
+# Research: Simulator CSMA CA protocol for Industrial IoTs 
 This repository contains my research work done from 2021 and it has been done in team of 4 people. The goal was to develop a mathematical model for the Carrier Sence Multiple Access with Collision Avoidance Protocol.  To evaluate the quality of our mathematical estimations, we had to build this simulator. 
 It took a while to complete the project, but it was richly challenging and worth to work on.
 
